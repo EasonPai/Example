@@ -1,3 +1,3 @@
 Git Example
 
-edited in branch
+edited in master
